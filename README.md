@@ -8,7 +8,7 @@
 ⋕ &nbsp;Currently sharpening full stack skills with real-world inspired projects.  
 ⋕ &nbsp;Open to collaboration, feedback, and continuous growth as a dev!
 
-<img alt="Cat" src="assets/Ngan Pham Kitten GIF - Ngan Pham Kitten Anime - Discover & Share GIFs.gif" align="right" width="200"/>
+<img alt="Cat" src="assets/Ngan Pham Kitten GIF - Ngan Pham Kitten Anime - Discover & Share GIFs.gif" align="right" width="500"/>
 
 ### ෧ Tech Stack
 
@@ -23,10 +23,3 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-### ෧ GitHub Analytics
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marichoii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marichoii&layout=compact&langs_count=8&theme=algolia"/>
-</p>
