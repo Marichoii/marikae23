@@ -2,13 +2,14 @@
 
 ### ᜊ About Me
 
+<img alt="Cat" src="assets/Ngan Pham Kitten GIF - Ngan Pham Kitten Anime - Discover & Share GIFs.gif" align="right" width="400"/>
+
 ⋕ &nbsp;Strong focus on frontend development, but I also enjoy working with backend.  
 ⋕ &nbsp;Always open to learning new technologies and exploring different areas.  
 ⋕ &nbsp;Constantly improving my skills through personal projects and experimentation.  
 ⋕ &nbsp;Currently sharpening full stack skills with real-world inspired projects.  
 ⋕ &nbsp;Open to collaboration, feedback, and continuous growth as a dev!
 
-<img alt="Cat" src="assets/Ngan Pham Kitten GIF - Ngan Pham Kitten Anime - Discover & Share GIFs.gif" align="right" width="500"/>
 
 ### ෧ Tech Stack
 
